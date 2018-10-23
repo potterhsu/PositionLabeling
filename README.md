@@ -1,6 +1,6 @@
 # PositionLabeling
 
-An simple tool for labeling position.
+A simple tool for labeling position.
 
 ![](images/sample.jpg)
 
@@ -29,3 +29,10 @@ An simple tool for labeling position.
     * Press key `l` to toggle sight lock mode
         > lock icon near the sight indicates that lock mode is enabled or not
     * Press key `s` to save annotation
+
+
+## TODO
+
+- [ ] Support multiple targets
+- [ ] Support bounding box annotation
+- [ ] Apply tracker for generating annotation proposal
